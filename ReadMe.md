@@ -1,4 +1,4 @@
-## Plp Basic Assignment Steps
+# PLPBasicGitAssignment
 
 Step 1:
     I signed into my Github account, clicked profile icon and selected 'Your repositories' and created a new repository called PLPBASICGITASSIGNMENT.
@@ -29,8 +29,3 @@ Step 7:
 
 Step 8:
     I verified my changes on the repository
-        
-    
-
-            
-
